@@ -12,7 +12,6 @@ if ($logo == "") {
 
 include 'ayar.php';
 include 'kissql.php';
-include 'functions.php';
 ?>
 <!DOCTYPE html>
 <html lang="tr">
