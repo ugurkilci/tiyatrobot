@@ -41,7 +41,6 @@ CREATE TABLE `tiyatrobot` (
 INSERT INTO `tiyatrobot` (`t_id`, `t_tip`, `t_yazi`) VALUES
 (4, 'karakter', 'çizmeli kedi'),
 (5, 'olay', 'balık avında'),
-(8, 'karakter', 'travesti'),
 (9, 'karakter', 'palyaço'),
 (10, 'karakter', 'kayınpeder'),
 (11, 'karakter', 'sihirbaz'),
@@ -145,8 +144,7 @@ INSERT INTO `tiyatrobot` (`t_id`, `t_tip`, `t_yazi`) VALUES
 (124, 'karakter', 'kedi'),
 (125, 'karakter', 'hokkabaz'),
 (126, 'karakter', 'korkak'),
-(127, 'karakter', 'mor popolu şempanze'),
-(128, 'karakter', 'travesti'),
+(127, 'karakter', 'mor popolu şempanze')
 
 --
 -- Dökümü yapılmış tablolar için indeksler
